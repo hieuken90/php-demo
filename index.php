@@ -1,6 +1,6 @@
 <?php
 $myObj->name = "John";
-$myObj->age = 31;
+$myObj->age = 20;
 $myObj->city = "New York";
 
 $myJSON = json_encode($myObj);
